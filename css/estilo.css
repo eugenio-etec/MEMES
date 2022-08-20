@@ -10,5 +10,23 @@ figure{
 .container{
     width: 80%;
     margin: auto;
-    text-align: center;
 }
+h1,h2{
+
+text-align: center;
+font-family: 'Righteous', cursive;
+color: cornflowerblue;
+
+}
+p{
+    font-family: 'Baloo 2', cursive;
+    text-align: justify;
+    color: darkslategray;
+    font-size: 1.5em;
+
+}
+
+div.center
+{
+    text-align: center;
+} 

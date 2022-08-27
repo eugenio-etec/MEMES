@@ -30,26 +30,3 @@ div.center
 {
     text-align: center;
 }
-
-#menu-h{
-    background-color: cadetblue;
-    list-style:none;
-    padding:0%
-
-}
-
-#menu-h li{
-        display: inline;
-        padding: 30px;
-}
-
-#menu-h li a{
-    color: black;
-    text-decoration:none ;
-    padding: 20px;;
-    display: inline-block;
-}
-
-#menu-h li a:hover {
-    color: darkcyan;
-}

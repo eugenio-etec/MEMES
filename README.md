@@ -1,1 +1,1 @@
-memes{https://eugenio-etec.github.io/MEMES/}
+https://eugenio-etec.github.io/MEMES/

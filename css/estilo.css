@@ -1,26 +1,13 @@
-html{
-
-scroll-behavior: smooth;
-
+*{
+    margin: 0;
+    padding: 0;
 }
 
 body{
     background-color: cornsilk;
 }
-
-header{
-
-    background-color:rgba(240,230,140,0.4);
-    padding-top: 3%;
-    padding-bottom: 3%;
-    clear:both;
-    text-align: center;
-}
-
 img{
-    width: 10%;
-    border-radius: 15px;
-    box-shadow: 10px 10px  darkgray;
+    width: 20%;
 }
 figure{
     text-align: center;
@@ -34,39 +21,25 @@ h1,h2{
 text-align: center;
 font-family: 'Righteous', cursive;
 color: cornflowerblue;
-padding-top: 3%;
 
 }
 p{
     font-family: 'Baloo 2', cursive;
     text-align: justify;
     color: darkslategray;
-    font-size: 1.2em;
-    text-shadow: 2px 2px DARKgray;
+    font-size: 1.5em;
 
 }
 
-div.center
+.video
 {
     text-align: center;
+    width: 50%;
+    float: left;
 }
 
-footer{
+flooter{
 
-    background-color:rgba(240,230,140,0.4);
-    padding-top: 4%;
-    padding-bottom: 4%;
-    clear: both;
-}
-
-footer p{
-
-    text-align: center;
+clear:both;
 
 }
-
-.apoio{
-
-    text-align: center;
-
-    }
